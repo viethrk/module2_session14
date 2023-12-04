@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Rikkei academi",
+      "age": 1,
+      "address": "Đà Nẵng",
+      "id": 1
+    },
+    {
+      "name": "Rikkei academi 2",
+      "age": "0",
+      "address": "Huế",
+      "id": 2
+    },
+    {
+      "name": "Rikkei soft",
+      "age": "11",
+      "address": "Hà Nội",
+      "id": 3
+    }
+  ],
+  "categories": [],
+  "products": [],
+  "carts": []
+}
